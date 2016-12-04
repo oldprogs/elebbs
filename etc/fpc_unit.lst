@@ -1,0 +1,12 @@
+-Fusrc/apro;
+-Fusrc/elecom/src;
+-Fusrc/elebbs;
+-Fusrc/elebbs/mkmsg;
+-Fusrc/elebbs/32bit;
+-Fusrc/elebbs/gencfg;
+-Fusrc/elebbs/csys/;
+-Fusrc/elebbs/inet/source;
+-Fusrc/elebbs/cgi;
+-Fusrc/elebbs/mysql;
+-Fusrc/elebbs/elexer;
+-Fusrc/elebbs/baseinc;
